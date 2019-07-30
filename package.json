@@ -1,24 +1,22 @@
 {
-  "name": "@miidx/rn-custom-component",
+  "name": "@miidx/rn-spacer",
   "version": "0.9.0",
-  "description": "This is template repo for creating custom component",
+  "description": "Customized spacer",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miidx/rn-component-template.git"
+    "url": "git+https://github.com/miidx/rn-spacer.git"
   },
-  "author": "firstyuyu",
+  "author": "pannitapril",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/miidx/rn-component-template/issues"
+    "url": "https://github.com/miidx/rn-spacer/issues"
   },
-  "homepage": "https://github.com/miidx/rn-component-template#readme",
-  "dependencies": {
-    
-  },
+  "homepage": "https://github.com/miidx/rn-spacer#readme",
+  "dependencies": {},
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
