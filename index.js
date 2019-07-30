@@ -1,3 +1,3 @@
-import CustomComponent from './src/custom-component';
+import Spacer from './src/spacer';
 
-export default CustomComponent;
+export default Spacer;
